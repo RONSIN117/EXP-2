@@ -51,11 +51,10 @@ Procedure for Load test:
 <img width="765" height="667" alt="Screenshot 2026-05-28 112116" src="https://github.com/user-attachments/assets/d596b31a-3219-4bac-a49a-64aebf0702f1" />
 
 Tabulation for Open Circuit Test
-
 Tabulation for Load Test:
-
 Model graph:
-<img width="840" height="1280" alt="image" src="https://github.com/user-attachments/assets/75a6f713-d335-4d42-b117-a7a47f886438" />
+<img width="793" height="1280" alt="image" src="https://github.com/user-attachments/assets/bcbf0ffa-5cae-4e45-8056-99bc12ac7b54" />
+
 
 
 Calculation: 
